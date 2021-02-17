@@ -12,6 +12,7 @@ Data treatment and visualizations were performed using Python whereby multiple s
 
 Skills acquired include: 
    -Time series data analysis and manipulation.
+   -Statistical analysis, data treatment and Automation
    -Python scripting: Numpy, Pandas & Matplotlib libraries.
    -Manipulation of Panda dataframes, data smoothing and fitting
    -Jupyter Notebook work environment
