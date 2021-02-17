@@ -14,7 +14,7 @@ Data treatment and visualizations were performed using Python whereby multiple s
 
 
 Participants:
-Muhibu KANEKA
+Muhibu KANEKA, and 
 Pierre MANNONI
 
 Licence:
