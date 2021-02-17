@@ -1,4 +1,4 @@
-# Intern-project
+# Intern-project (M1-2020): MSc. Environnemental hazards and Risks management
 Spatial and Temporal comparison of the dynamics of COVID-19 pandemic in relation with public health measures 
 -----------------------
 Description of the Project:
