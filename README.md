@@ -1,5 +1,5 @@
 # Intern-project
-COVID-19
+Spatial and Temporal comparison of the dynamics of COVID-19 pandemic in relation with public health measures 
 -----------------------
 Description of the Project:
 
