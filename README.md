@@ -1,5 +1,4 @@
-# 3 months Internship (M1-2020): MSc. Environnemental hazards and Risks management (UMR 7300 ESPACE, Nice)
-Spatial and Temporal comparison of the dynamics of COVID-19 pandemic in relation with public health measures 
+# Spatial and Temporal comparison of the dynamics of COVID-19 pandemic in relation with public health measures 
 -----------------------
 Description of the Project:
 
