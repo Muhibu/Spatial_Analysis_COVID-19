@@ -10,7 +10,7 @@ Information about the preventive measures implemented by countries of our select
 Time series data provided by John Hopkins University "https://github.com/CSSEGISandData/COVID-19" retrieved from the GitHub (free code sharing platform) source, the data contains worldwide records for COVID-19. 
 Data treatment and visualizations were performed using Python whereby multiple scripts created to manipulate the dataframe comprised of different countries. Finally, multiple real time graphs produced for interpretation and analysis.
 
-Skills acquired include: 
+# Tools & techniques applicable for the project:
    -Time series data analysis and manipulation.
    -Statistical analysis, data treatment and Automation
    -Python scripting: Numpy, Pandas & Matplotlib libraries.
@@ -20,7 +20,7 @@ Skills acquired include:
    -Research exploring and writing skills
 
 Participants:
-Muhibu KANEKA, and 
+Muhibu KANEKA and 
 Pierre-Alain MANNONI
 
 Licence:
