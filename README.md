@@ -18,9 +18,5 @@ Data treatment and visualizations were performed using Python whereby multiple s
    -GitHub &/ or Git
    -Research exploring and writing skills
 
-Participants:
-Muhibu KANEKA and 
-Pierre-Alain MANNONI
-
 Licence:
 
