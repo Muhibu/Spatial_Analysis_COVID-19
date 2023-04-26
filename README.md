@@ -14,9 +14,6 @@ Data treatment and visualizations were performed using Python whereby multiple s
    -Statistical analysis, data treatment and Automation
    -Python scripting: Numpy, Pandas & Matplotlib libraries.
    -Manipulation of Panda dataframes, data smoothing and fitting
-   -Jupyter Notebook work environment
-   -GitHub &/ or Git
-   -Research exploring and writing skills
 
 Licence:
 
