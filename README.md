@@ -1,4 +1,4 @@
-# Spatial and Temporal comparison of the dynamics of COVID-19 pandemic in relation with public health measures 
+# Spatial and Temporal comparison of the dynamics of COVID-19 pandemic in relation to public health measures 
 -----------------------
 Description of the Project:
 
